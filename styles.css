@@ -1,0 +1,32 @@
+select{
+    background-color:rgb(243, 240, 240);
+    height:25px;
+    width:60px;
+ }   
+ body{
+    background-color:bisque ;
+    
+ }
+ section{
+    height:250px;
+    width:500px;
+    text-align: center;
+    margin-left:30%;
+ }
+ section.shkencore{
+    height:210px;
+    width:500px;
+    text-align: center;
+    margin-left:30%;
+ }
+
+ label{
+    font-size:18px;
+ }
+ p{
+    font-size:18px;
+ }
+ input.input2{
+    width:140px;
+
+ }
