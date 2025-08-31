@@ -10,6 +10,6 @@ Technologies used:
 - Git & GitHub --> for version control and hosting
 - GitHub Pages --> for live deployment
 
-Live Demo : view here --> ()
+Live Demo : view here --> (https://d00055a.github.io/Calculator-web-page/)
 
 License © 2025 Daniel Dedja. All rights reserved.
